@@ -1,3 +1,3 @@
 # Conceitos avançados do GIT
 
-## alerando o readme.md na branch main
+## alterando o readme.md na branch dev
